@@ -1,0 +1,6 @@
+{
+  "name": "Ambifest — Invitación Digital Mis XV",
+  "description": "Invitación digital interactiva y elegante para los 15 años de Ambar Arguello Vera (Ambifest) con música, confirmación de asistencia RSVP, cuenta regresiva, galería y ubicación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
